@@ -2,8 +2,13 @@
 
 Meu nome é Lorrany Kempe 
 
+
 -Estou estudando na [Alura](https://wwww.alura.com.br)
+
+
 -Estou desenvolvendo a linguagem JavaScript
+
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Voce pode entrar em contato comigo :maibox 
