@@ -3,7 +3,7 @@
 Meu nome é Lorrany Kempe 
 
 
--Estou estudando na [Alura](https://wwww.alura.com.br)
+-Estou estudando na [Alura](https://wwww.alura.com.br).
 
 
 -Estou desenvolvendo a linguagem JavaScript
